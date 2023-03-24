@@ -8,6 +8,7 @@ body {
 .header {
   box-shadow: 0 4px 5px rgba(57, 63, 72, 0.3);
   position:fixed;
+  
   top: 0;
   left: 0;
   width: 100%;
